@@ -1,14 +1,18 @@
-# Prayatnam Academy Main Website – Updated Version
+# Prayatnam Academy Main Website v2
 
-This version includes:
-- Classes 1–12 coaching and published fee structure
-- IIT-JEE, NEET and UPSC foundation programme section
-- 1-week Popular AI Tools Masterclass at ₹999
-- 3-month AI programme for Classes 6–12 at ₹4,999
-- University admission counselling section
-- Competitive exam support
-- WhatsApp and contact number updated to 8115749450
-- SEO metadata, structured data, FAQ schema, sitemap and robots.txt
+Upload all files and the `assets` folder to the root of your GitHub Pages repository.
 
-## Upload to GitHub Pages
-Upload all files and the `assets` folder to the root of your existing GitHub Pages repository. Replace the old `index.html`, `styles.css`, `script.js`, `robots.txt` and `sitemap.xml`. Keep the folder structure unchanged.
+## Files
+- `index.html`
+- `styles.css`
+- `script.js`
+- `robots.txt`
+- `sitemap.xml`
+- `assets/university-admission-network.webp`
+
+## Important
+1. Confirm the production domain is `https://prayatnam247.com/`. If different, update canonical, Open Graph URL, schema URL, robots.txt and sitemap.xml.
+2. Verify the phone number, email and address before publishing.
+3. University and programme availability should be updated each intake.
+4. Submit the sitemap in Google Search Console after deployment.
+5. Maintain a verified Google Business Profile and request genuine parent/student reviews for local SEO.
